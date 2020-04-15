@@ -1,9 +1,3 @@
----
-title: EVE - Kiting Is Easy FAQ
-tags: EVEOnline
-author: Yumenoshima
-slide: false
----
 ## Video (EVE - Kiting Is Easy 001)
 https://www.youtube.com/watch?v=3QZb75AdFec
 
