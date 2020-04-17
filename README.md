@@ -1,7 +1,7 @@
 ## Video (EVE - Kiting Is Easy 001)
 https://www.youtube.com/watch?v=3QZb75AdFec
 
-## How do you move around manually?
+## FAQ.1 How do you move around manually?
 1) Press CTRL+Q
 2) Move mouse to desired horizontal angle and distance.
 3) Single click.
@@ -11,31 +11,33 @@ https://www.youtube.com/watch?v=3QZb75AdFec
 You can do Step3-5 in one motion by double clicking to ignore setting vertical angle.
 ```
 
-## What are those arrows coming out of enemy ships?
+## FAQ.2 What are those arrows coming out of enemy ships?
 Those arrows indicate their future location after 10 seconds if their speed and direction persists.
 ![eve1.png](https://i.imgur.com/tx2RvL8.png)
 
-## Using "Crossing the T" maneuver solo to stay alive.
+## FAQ.3 Using "Crossing the T" maneuver solo to stay alive.
 Use your speed to stay ahead of the enemy fleet.
 https://en.wikipedia.org/wiki/Crossing_the_T
 ![eve2.png](https://i.imgur.com/LZZae8c.png)
 
-## Whilst I have understood the T maneuver, how do you keep a check on Range control. So that u don't lose point. As in do u angle towards the target or angle away? 
+## FAQ.4 Whilst I have understood the T maneuver, how do you keep a check on Range control. So that u don't lose point. As in do u angle towards the target or angle away? 
 When the target is coming towards you, angle away 45 degrees (or 135 degrees) zig zag backwards, and manually keep range. When target is running, angle towards him 45 degrees and when you get pararell with him angle towards him 45 degrees again to get in front of him, and then do the zig zag back wards again, rinse and repeat. 
 
-- example 1
+- example 4.1
   - https://www.youtube.com/watch?v=0wekM9jUG5I
-- example 2
+- example 4.2
   - https://www.youtube.com/watch?v=cfBISoV3KAU
 
-## As there are other ships on grid. How do you keep them away whilst still applying DPS to the target. If i get to close to them they may be able to scram me.
+## FAQ.5 As there are other ships on grid. How do you keep them away whilst still applying DPS to the target. If i get to close to them they may be able to scram me.
 Make them chase you around in circles around the pointed target.  Also, when you feel in risk always play safe!
+- example 5.1
+  - https://www.youtube.com/watch?v=8JblLvP7x98
 
-## Kiting sure is easy with a snaked garmur against ab frigs! (sarcasm)
+## FAQ.6 Kiting sure is easy with a snaked garmur against ab frigs! (sarcasm)
 Kiting and speed tanking is about much speed as you can get! Can't kite if you are the slow guy.
 Also it's not just against ab frigs, it's about having an ability to fight and catch a blob fleet solo as an annoying tackler.
 
-## Kiting is super easy when ur in a snaked garmur all the time. 
+## FAQ.7 Kiting is super easy when ur in a snaked garmur all the time. 
 Highspeed kiting is especially fun when catching and fighting against blob fleets with baits.
 The "crossing the T" maneuver in the explanation page with garmur point range is extremely effective against the bait and their backups.
 I think high-grade snaked garmur does a good job of annoying blob fleet FCs and haven't found an alternative option for this role yet.
