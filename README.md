@@ -21,7 +21,9 @@ https://en.wikipedia.org/wiki/Crossing_the_T
 ![eve2.png](https://i.imgur.com/LZZae8c.png)
 
 ## Whilst I have understood the T maneuver, how do you keep a check on Range control. So that u don't lose point. As in do u angle towards the target or angle away? 
-When the target is coming towards you, angle away 45 degrees (or 135 degrees) zig zag backwards, and manually keep range. When target is running, angle towards him 45 degrees and when you get pararell with him angle towards him 45 degrees again to get in front of him, and then do the zig zag back wards again, rinse and repeat.
+When the target is coming towards you, angle away 45 degrees (or 135 degrees) zig zag backwards, and manually keep range. When target is running, angle towards him 45 degrees and when you get pararell with him angle towards him 45 degrees again to get in front of him, and then do the zig zag back wards again, rinse and repeat. (an example: https://www.youtube.com/watch?v=cfBISoV3KAU )
+
+
 
 ## As there are other ships on grid. How do you keep them away whilst still applying DPS to the target. If i get to close to them they may be able to scram me.
 Make them chase you around in circles around the pointed target.  Also, when you feel in risk always play safe!
