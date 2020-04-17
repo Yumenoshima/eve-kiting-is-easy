@@ -26,7 +26,7 @@ When the target is coming towards you, angle away 45 degrees (or 135 degrees) zi
 ## As there are other ships on grid. How do you keep them away whilst still applying DPS to the target. If i get to close to them they may be able to scram me.
 Make them chase you around in circles around the pointed target.  Also, when you feel in risk always play safe!
 
-## Kiting sure is easy with a snaked garmur against ab frigs!
+## Kiting sure is easy with a snaked garmur against ab frigs! (sarcasm)
 Kiting and speed tanking is about much speed as you can get! Can't kite if you are the slow guy.
 Also it's not just against ab frigs, it's about having an ability to fight and catch a blob fleet solo as an annoying tackler.
 
