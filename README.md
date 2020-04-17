@@ -37,6 +37,21 @@ Make them chase you around in circles around the pointed target.  Also, when you
 - https://www.youtube.com/watch?v=iztk2fhrQMk
 - https://www.youtube.com/watch?v=0wekM9jUG5I
 
+
+## EvE - Long Point Tackling 001 [ Orthrus ]
+- https://www.youtube.com/watch?v=0lOF1WruOkE
+## EvE - Long Point Tackling 002 [ Ikitursa x2 ]
+- https://www.youtube.com/watch?v=DaNe0As3fwY
+## EvE - Long Point Tackling - 003 [ Stabber x2 ]
+- https://www.youtube.com/watch?v=tNceNIKu50w
+
+## EVE Playing Station Games 001 (Dramiel kill)
+- https://www.youtube.com/watch?v=dGgDPsTp2w8
+## EVE Playing Station Games 002 (Vengeance kill)
+- https://www.youtube.com/watch?v=O8cxscbfyLg
+## EVE Playing Station Games 003 (Gila kill)
+- https://www.youtube.com/watch?v=-pK3YXYceQ8
+
 ## My Twitter
 https://twitter.com/Yumenoshima1
 
