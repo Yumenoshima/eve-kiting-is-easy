@@ -30,16 +30,26 @@ Make them chase you around in circles around the pointed target.  Also, when you
 Kiting and speed tanking is about much speed as you can get! Can't kite if you are the slow guy.
 Also it's not just against ab frigs, it's about having an ability to fight and catch a blob fleet solo as an annoying tackler.
 
-# more videos (EvE - Long Point Kiting Basics - 001-009)
-- https://www.youtube.com/watch?v=DrSvAmQyKw0
-- https://www.youtube.com/watch?v=8JblLvP7x98
-- https://www.youtube.com/watch?v=heBzWm1I3xk
-- https://www.youtube.com/watch?v=Qjay4b36ngQ
-- https://www.youtube.com/watch?v=AiaVszGT8VQ
-- https://www.youtube.com/watch?v=lzxjrPHH0Mg
-- https://www.youtube.com/watch?v=uS75JSQkMtA
-- https://www.youtube.com/watch?v=iztk2fhrQMk
-- https://www.youtube.com/watch?v=0wekM9jUG5I
+# more videos 
+## EvE - Long Point Kiting Basics 
+- 001
+  - https://www.youtube.com/watch?v=DrSvAmQyKw0
+- 002
+  - https://www.youtube.com/watch?v=8JblLvP7x98
+- 003
+  - https://www.youtube.com/watch?v=heBzWm1I3xk
+- 004
+  - https://www.youtube.com/watch?v=Qjay4b36ngQ
+- 005
+  - https://www.youtube.com/watch?v=AiaVszGT8VQ
+- 006
+  - https://www.youtube.com/watch?v=lzxjrPHH0Mg
+- 007
+  - https://www.youtube.com/watch?v=uS75JSQkMtA
+- 008
+  - https://www.youtube.com/watch?v=iztk2fhrQMk
+- 009
+  - https://www.youtube.com/watch?v=0wekM9jUG5I
 
 ## EvE - Long Point Tackling
 - 001 [ Orthrus ]
