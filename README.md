@@ -82,6 +82,9 @@ I think high-grade snaked garmur does a good job of annoying blob fleet FCs and 
 - Catching a Nergal (killed him eventually)
   - https://www.youtube.com/watch?v=9pp1BNjHWpg
   
+## Star Trek TNG 39 - Geordi's Illegal Date
+- https://www.youtube.com/watch?v=OVPEMu-5q78
+
 ## My Twitter
 https://twitter.com/Yumenoshima1
 
