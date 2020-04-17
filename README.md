@@ -1,6 +1,9 @@
 ## Video (EVE - Kiting Is Easy 001)
 https://www.youtube.com/watch?v=3QZb75AdFec
 
+## Reddit Article Link
+https://www.reddit.com/r/Eve/comments/g346yi/eve_kiting_is_easy_001_with_explanation/
+
 ## FAQ.1 How do you move around manually?
 1) Press CTRL+Q
 2) Move mouse to desired horizontal angle and distance.
