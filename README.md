@@ -30,6 +30,11 @@ Make them chase you around in circles around the pointed target.  Also, when you
 Kiting and speed tanking is about much speed as you can get! Can't kite if you are the slow guy.
 Also it's not just against ab frigs, it's about having an ability to fight and catch a blob fleet solo as an annoying tackler.
 
+## Kiting is super easy when ur in a snaked garmur all the time. 
+Highspeed kiting is especially fun when catching and fighting against blob fleets with baits.
+The "crossing the T" maneuver in the explanation page with garmur point range is extremely effective against the bait and their backups.
+I think high-grade snaked garmur does a good job of annoying blob fleet FCs and haven't found an alternative option for this role yet.
+
 # more videos 
 ## EvE - Long Point Kiting Basics 
 - 001
