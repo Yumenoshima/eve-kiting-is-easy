@@ -13,7 +13,6 @@ https://www.reddit.com/r/Eve/comments/g346yi/eve_kiting_is_easy_001_with_explana
 ```
 You can do Step3-5 in one motion by double clicking to ignore setting vertical angle.
 ```
-
 ## FAQ.2 What are those arrows coming out of enemy ships?
 Those arrows indicate their future location after 10 seconds if their speed and direction persists.
 ![eve1.png](https://i.imgur.com/tx2RvL8.png)
@@ -44,6 +43,8 @@ Also it's not just against ab frigs, it's about having an ability to fight and c
 Highspeed kiting is especially fun when catching and fighting against blob fleets with baits.
 The "crossing the T" maneuver in the explanation page with garmur point range is extremely effective against the bait and their backups.
 I think high-grade snaked garmur does a good job of annoying blob fleet FCs and haven't found an alternative option for this role yet.
+
+![kiteq.png](https://i.imgur.com/gFYobGc.png)
 
 # more videos 
 ## EvE - Long Point Kiting Basics 
