@@ -44,7 +44,8 @@ Highspeed kiting is especially fun when catching and fighting against blob fleet
 The "crossing the T" maneuver in the explanation page with garmur point range is extremely effective against the bait and their backups.
 I think high-grade snaked garmur does a good job of annoying blob fleet FCs and haven't found an alternative option for this role yet.
 
-![kiteq.png](https://i.imgur.com/gFYobGc.png)
+## FAQ.8 How is CTRL+Q better than double clicking in space?
+When trying to catch kiters, you need to predict direction of the kiter, and use double clicking in space to try to take short-cut to catch the kiters.  When using CTRL+Q and tactical overlay looking top down, you can detect that the catcher is trying to take short-cut, and go the other direction, to not get cautht.  So I think CTRL+Q serves as a counter to double clicking short-cuts maneuver in space.
 
 # more videos 
 ## EvE - Long Point Kiting Basics 
@@ -101,3 +102,5 @@ https://twitter.com/Yumenoshima1
 
 ## My Zkill
 https://zkillboard.com/character/93531150/
+
+![kiteq.png](https://i.imgur.com/gFYobGc.png)
