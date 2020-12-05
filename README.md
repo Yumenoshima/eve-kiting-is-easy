@@ -1,24 +1,26 @@
-## Video (EVE - Kiting Is Easy 001)
+# How to Speed Tank & Kite with Q shortcut. (Qショートカットでスピードタンク&カイトする方法について)
+
+## Video (EVE - Kiting Is Easy 001) (参考動画)
 https://www.youtube.com/watch?v=3QZb75AdFec
 
-## Reddit Article Link
+## Reddit Article Link (Reddit記事)
 https://www.reddit.com/r/Eve/comments/g346yi/eve_kiting_is_easy_001_with_explanation/
 
-## FAQ.1 How do you move around manually?
-1) Press Q
-2) Move mouse to desired horizontal angle and distance.
-3) Single click.
-4) Move mouse to desired vertical angle.
-5) Single click.
+## FAQ.1 How do you move around manually? (手動でどうやって動かしているの？)
+1) While pressing shortcut Q, do the following 2-5. (ショートカットQを押したまま、2-5を行う)
+2) Move mouse to desired horizontal angle and distance. (マウスで平面の角度と距離を決める）
+3) Single click.（シングルクリック）
+4) Move mouse to desired vertical angle.（マウスで縦方向の角度を決める）
+5) Single click.（シングルクリック）
 ```
-You can do Step3-5 in one motion by double clicking to ignore setting vertical angle.
+You can do Step3-5 in one motion by double clicking to ignore setting vertical angle.（ステップ３～５をダブルクリックすることで縦方向の角度を無視することができる）
 ```
-## FAQ.2 What are those arrows coming out of enemy ships?
-Those arrows indicate their future location after 10 seconds if their speed and direction persists.
+## FAQ.2 What are those arrows coming out of enemy ships?（敵の船から出ている矢印は何？）
+Those arrows indicate their future location after 10 seconds if their speed and direction persists.（矢印は相手の船がスピードと方向が変わらなかった場合の10秒後の場所を示します）
 ![eve1.png](https://i.imgur.com/tx2RvL8.png)
 
-## FAQ.3 Using "Crossing the T" maneuver solo to stay alive.
-Use your speed to stay ahead of the enemy fleet.
+## FAQ.3 Using "Crossing the T" maneuver solo to stay alive.（丁字戦法で生存率を高めよう）
+Use your speed to stay ahead of the enemy fleet.（スピードを使い相手のフリートの前方に位置取りしよう）
 https://en.wikipedia.org/wiki/Crossing_the_T
 ![eve2.png](https://i.imgur.com/LZZae8c.png)
 
@@ -47,7 +49,7 @@ I think high-grade snaked garmur does a good job of annoying blob fleet FCs and 
 ## FAQ.8 How is CTRL+Q better than double clicking in space?
 When trying to catch kiters, you need to predict direction of the kiter, and use double clicking in space to try to take short-cut to catch the kiters.  When using CTRL+Q and tactical overlay looking top down, you can detect that the catcher is trying to take short-cut, and go the other direction, to not get cautht.  So I think CTRL+Q serves as a counter to double clicking short-cuts maneuver in space.
 
-# more videos 
+# more videos （参考動画）
 ## EvE - Long Point Kiting Basics 
 - 001
   - https://www.youtube.com/watch?v=DrSvAmQyKw0
