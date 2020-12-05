@@ -13,15 +13,21 @@ https://www.reddit.com/r/Eve/comments/g346yi/eve_kiting_is_easy_001_with_explana
 4) Move mouse to desired vertical angle.（マウスで縦方向の角度を決める）
 5) Single click.（シングルクリック）
 ```
-You can do Step3-5 in one motion by double clicking to ignore setting vertical angle.（ステップ３～５をダブルクリックすることで縦方向の角度を無視することができる）
+You can do Step3-5 in one motion by double clicking to ignore setting vertical angle.
+（ステップ３～５をダブルクリックすることで縦方向の角度を無視することができる）
 ```
+
 ## FAQ.2 What are those arrows coming out of enemy ships?（敵の船から出ている矢印は何？）
-Those arrows indicate their future location after 10 seconds if their speed and direction persists.（矢印は相手の船がスピードと方向が変わらなかった場合の10秒後の場所を示します）
+Those arrows indicate their future location after 10 seconds if their speed and direction persists.
+（矢印は相手の船がスピードと方向が変わらなかった場合の10秒後の場所を示します）
+
 ![eve1.png](https://i.imgur.com/tx2RvL8.png)
 
 ## FAQ.3 Using "Crossing the T" maneuver solo to stay alive.（丁字戦法で生存率を高めよう）
 Use your speed to stay ahead of the enemy fleet.（スピードを使い相手のフリートの前方に位置取りしよう）
+
 https://en.wikipedia.org/wiki/Crossing_the_T
+
 ![eve2.png](https://i.imgur.com/LZZae8c.png)
 
 ## FAQ.4 Whilst I have understood the T maneuver, how do you keep a check on Range control. So that u don't lose point. As in do u angle towards the target or angle away? 
