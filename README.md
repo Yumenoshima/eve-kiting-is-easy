@@ -76,6 +76,11 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
 - 009
   - https://www.youtube.com/watch?v=0wekM9jUG5I
 
+## EvE - Garmur Kiting
+- 001
+  - https://www.youtube.com/watch?v=BIFoTFWRIOE
+  - https://zkillboard.com/kill/89062403/
+
 ## EvE - Long Point Tackling
 - 001 [ Orthrus ]
   - https://www.youtube.com/watch?v=0lOF1WruOkE
