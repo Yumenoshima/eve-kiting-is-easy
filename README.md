@@ -104,16 +104,6 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
   - https://www.youtube.com/watch?v=cfBISoV3KAU
 - Picking off a Bantam in a fleet
   - https://www.youtube.com/watch?v=ol6OcnYJvCo
-- Catching a Nergal (killed him eventually)
+- Catching a Nergal
   - https://www.youtube.com/watch?v=9pp1BNjHWpg
   
-## Star Trek TNG 39 - Geordi's Illegal Date
-- https://www.youtube.com/watch?v=OVPEMu-5q78
-
-## My Twitter
-https://twitter.com/Yumenoshima1
-
-## My Zkill
-https://zkillboard.com/character/93531150/
-
-![kiteq.png](https://i.imgur.com/gFYobGc.png)
