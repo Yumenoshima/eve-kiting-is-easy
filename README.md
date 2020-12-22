@@ -75,6 +75,8 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
   - https://www.youtube.com/watch?v=iztk2fhrQMk
 - 009
   - https://www.youtube.com/watch?v=0wekM9jUG5I
+- 010
+  - https://www.youtube.com/watch?v=NY2_WKUdweI
 
 ## EvE - Garmur Kiting
 - 001
