@@ -14,8 +14,7 @@
 - Twitter : https://twitter.com/Yumenoshima1
 - Youtube : https://www.youtube.com/c/YumenoshimaTV/
 - Twitch : https://www.twitch.tv/yumenoshima
-### My Friend Invitation to EVE-ONline (イブオンライン・フレンド招待)
-- https://www.eveonline.com/signup?invc=e6b14f74-78e0-4039-87e3-196ad450e64d
+- My Friend Invitation to EVE-ONline (イブオンライン・フレンド招待): https://www.eveonline.com/signup?invc=e6b14f74-78e0-4039-87e3-196ad450e64d
 
 ## How to Speed Tank & Kite with Q shortcut. (Qショートカットでスピードタンク& Q-カイトする方法について)
 
