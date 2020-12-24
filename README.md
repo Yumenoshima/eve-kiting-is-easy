@@ -2,10 +2,14 @@
 
 ### About Me
 #### Why I do Q-Kite
-- My first "EVE chill" experience was in a kiting Tristan against a Dragoon in a High-Sec War. ( https://zkillboard.com/kill/32742914/ ) EVEオンラインで初めて”EVE Chill"(武者震い的な)を経験したのはハイセク戦争にてカイト・トリスタンで敵のドラグーンと戦闘した時のことでした。
-- That "EVE chill" experience was so extreme for me, I've been hooked on learning about kiting and anti-kiting and anti-anti-kiting. その時の"EVE Chill"経験があまりに激しかったため、その後カイト、アンチ・カイト、アンチ・アンチ・カイトのテクニックについてのめり込むように学習していきました。
-- My main studying material was Magical Kiting / Anti-Kiting 101 article : https://forums-archive.eveonline.com/topic/161312/ 　学習につかったサイトはMagicalカイティング101というサイトでした。
-- Then one day my corp-mate Katherine Chivahle showed me how to do Q-Kite. ( https://youtu.be/127PIHTbjxg?t=120 ) Ever since I've been hooked on experimenting with anti-anti-kiting with Q-kite! ある日、コーポメンバーのキャサリンさんがQカイトの仕方を動画( https://youtu.be/127PIHTbjxg?t=120 )で教えてくれました。それ以降ずっと私はQカイト操作によるアンチ・アンチ・カイトテクニックの実験に励んでいます！
+- My first "EVE chill" experience was in a kiting Tristan against a Dragoon in a High-Sec War. ( https://zkillboard.com/kill/32742914/ ) 
+  - EVEオンラインで初めて”EVE Chill"(武者震い的な)を経験したのはハイセク戦争にてカイト・トリスタンで敵のドラグーンと戦闘した時のことでした。
+- That "EVE chill" experience was so extreme for me, I've been hooked on learning about kiting and anti-kiting and anti-anti-kiting. 
+  - その時の"EVE Chill"経験があまりに激しかったため、その後カイト、アンチ・カイト、アンチ・アンチ・カイトのテクニックについてのめり込むように学習していきました。
+- My main studying material was Magical Kiting / Anti-Kiting 101 article : https://forums-archive.eveonline.com/topic/161312/ 　
+  - 学習につかったサイトはMagicalカイティング101というサイトでした。
+- Then one day my corp-mate Katherine Chivahle showed me how to do Q-Kite. ( https://youtu.be/127PIHTbjxg?t=120 ) Ever since I've been hooked on experimenting with anti-anti-kiting with Q-kite! I have not been able to master vertical Q-Kite like Katherine-san does. 
+  - ある日、コーポメンバーのキャサリンさんがQカイトの仕方を動画( https://youtu.be/127PIHTbjxg?t=120 )で教えてくれました。それ以降ずっと私はQカイト操作によるアンチ・アンチ・カイトテクニックの実験に励んでいます！いまだにキャサリンさんがやっていた縦Q操作はマスターできていません！
 #### My Information
 - Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
 - Corp : http://skt-space.dreamlog.jp/ 　 （コーポ＝ギルド＝クラン）
