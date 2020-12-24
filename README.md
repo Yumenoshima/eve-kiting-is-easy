@@ -82,6 +82,9 @@ I think high-grade snaked garmur does a good job of annoying blob fleet FCs and 
 ## FAQ.8 How is CTRL+Q better than double clicking in space?
 When trying to catch kiters, you need to predict direction of the kiter, and use double clicking in space to try to take short-cut to catch the kiters.  When using CTRL+Q and tactical overlay looking top down, you can detect that the catcher is trying to take short-cut, and go the other direction, to not get cautht.  So I think CTRL+Q serves as a counter to double clicking short-cuts maneuver in space.
 
+- example 8.1
+  - https://youtu.be/NY2_WKUdweI?t=80
+
 # more videos （参考動画）
 ## EvE - Long Point Kiting Basics 
 - 001
