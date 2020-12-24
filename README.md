@@ -5,8 +5,7 @@
 - My first "EVE chill" experience was in a kiting Tristan against a Dragoon in a High-Sec War. ( https://zkillboard.com/kill/32742914/ ) 
 - That "EVE chill" experience was so extreme for me, I've been hooked on learning about kiting and anti-kiting and anti-anti-kiting.
 - My main studying material was Magical Kiting / Anti-Kiting 101 article : https://forums-archive.eveonline.com/topic/161312/
-- Then one day my corp-mate Katherine Chivahle showed me how to do Q-Kite : https://youtu.be/127PIHTbjxg?t=120 
-- Ever since I've been hooked on doing anti-anti-kiting with Q-kite!
+- Then one day my corp-mate Katherine Chivahle showed me how to do Q-Kite. ( https://youtu.be/127PIHTbjxg?t=120 ) Ever since I've been hooked on doing anti-anti-kiting with Q-kite!
 ### My Information
 - Zkill : https://zkillboard.com/character/93531150/
 - Corp : http://skt-space.dreamlog.jp/
@@ -15,6 +14,8 @@
 - Youtube : https://www.youtube.com/c/YumenoshimaTV/
 - Twitch : https://www.twitch.tv/yumenoshima
 - My Friend Invitation to EVE-ONline (イブオンライン・フレンド招待): https://www.eveonline.com/signup?invc=e6b14f74-78e0-4039-87e3-196ad450e64d
+- EVEオンライン記者クラブdiscord ： https://discord.gg/Am9Rz4w
+- SKTコープdiscord : https://discord.gg/9Dvv6KG
 
 ## How to Speed Tank & Kite with Q shortcut. (Qショートカットでスピードタンク& Q-カイトする方法について)
 
