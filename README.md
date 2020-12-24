@@ -1,4 +1,6 @@
-# How to Speed Tank & Kite with Q shortcut. (Qショートカットでスピードタンク&カイトする方法について)
+# Introduction to EVE-ONLINE Q-Kite Technique (EVEオンライン・Q-カイトテクニック紹介)
+
+## How to Speed Tank & Kite with Q shortcut. (Qショートカットでスピードタンク& Q-カイトする方法について)
 
 ## Video (EVE - Kiting Is Easy 010) (参考動画1)
 https://www.youtube.com/watch?v=NY2_WKUdweI
