@@ -64,26 +64,30 @@ When the target is coming towards you, angle away 45 degrees (or 135 degrees) zi
 
 ## FAQ.5 As there are other ships on grid. How do you keep them away whilst still applying DPS to the target. If i get to close to them they may be able to scram me.
 Make them chase you around in circles around the pointed target.  Also, when you feel in risk always play safe!
+
 - example 5.1
   - https://www.youtube.com/watch?v=8JblLvP7x98
 
 ## FAQ.6 Kiting sure is easy with a snaked garmur against ab frigs! (sarcasm)
-Kiting and speed tanking is about much speed as you can get! Can't kite if you are the slow guy.
-Also it's not just against ab frigs, it's about having an ability to fight and catch a blob fleet solo as an annoying tackler.
+Kiting and speed tanking is about much speed as you can get! Can't kite if you are the slow guy...
+Also it's not just against ab frigs, it's about having an ability to dodge anti-kiting ships and catch a blob fleet as an annoying long point tackler.
 
 ## FAQ.7 Kiting is super easy when ur in a snaked garmur all the time. 
 Highspeed kiting is especially fun when catching and fighting against blob fleets with baits.
-The "crossing the T" maneuver in the explanation page with garmur point range is extremely effective against the bait and their backups.
+The "crossing the T" maneuver in the explanation page with garmur point range is extremely effective against the bait and their backups. (See example 7.1)
 I think high-grade snaked garmur does a good job of annoying blob fleet FCs and haven't found an alternative option for this role yet.
 
+- example 7.1
+  - https://www.youtube.com/watch?v=cfBISoV3KAU
+
 ## FAQ.8 How is CTRL+Q better than double clicking in space?
-When trying to catch kiters, you need to predict direction of the kiter, and use double clicking in space to try to take short-cut to catch the kiters.  When using CTRL+Q and tactical overlay looking top down, you can detect that the catcher is trying to take short-cut, and go the other direction, to not get cautht.  So I think CTRL+Q serves as a counter to double clicking short-cuts maneuver in space.
+When trying to catch kiters, you need to predict direction of the kiter, and use double clicking in space to try to take short-cut to catch the kiters.  When using CTRL+Q and tactical overlay looking top down, you can detect that the catcher is trying to take short-cut for intercept, and counter the intercept. (i.e. go the other direction to not get cautht)  So I think CTRL+Q serves as a counter to double clicking short-cuts maneuver in space.
 
 - example 8.1
   - https://youtu.be/NY2_WKUdweI?t=80
 
-## Thank you!
-fly safe!
+## Conclusion
+When you start your kiting, you'll often get intercepted by anti-kiting maneuvers and get frustrated or give up not knowing what happened. I want this article to server as a Proof Of Concept that there is a way to counter the anti-kiting maneuvers. Thank you! Fly safe!
 
 #### My Information
 - Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
