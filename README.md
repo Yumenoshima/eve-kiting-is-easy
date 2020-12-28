@@ -5,7 +5,7 @@
   - https://web.archive.org/web/20160322110643/https://www.thewholefrigate.com/2012/10/magical-kiting-101.html
 - Anti-Kiting
   - https://web.archive.org/web/20181007143413/https://www.thewholefrigate.com/2012/10/magic-nullification-countering-kiting.html
-- Anti-Anti-Kiting
+- Anti-Anti-Kiting (Super Kiting!)
   - Read this article about Q-Kiting!
 
 ### About Me
