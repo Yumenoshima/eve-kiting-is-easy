@@ -82,6 +82,9 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
 - example 8.1
   - https://youtu.be/NY2_WKUdweI?t=80
 
+## Thank you!
+fly safe!
+
 #### My Information
 - Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
 - Corp : http://skt-space.dreamlog.jp/ 　 （コーポ＝ギルド＝クラン）
