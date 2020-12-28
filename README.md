@@ -16,19 +16,8 @@
   - その時の"EVE Chill"経験があまりに激しかったため、その後カイト、アンチ・カイト、アンチ・アンチ・カイトのテクニックについてのめり込むように学習していきました。
 - My main studying material was Magical Kiting / Anti-Kiting 101 article : https://forums-archive.eveonline.com/topic/161312/ 　
   - 学習につかったサイトはMagicalカイティング101というサイトでした。
-- Then one day my corp-mate Katherine Chivahle showed me how to do Q-Kite. ( https://youtu.be/127PIHTbjxg?t=120 ) Ever since I've been hooked on experimenting with anti-anti-kiting with Q-kite! I have not been able to master vertical Q-Kite like Katherine-san does. 
-  - ある日、コーポメンバーのキャサリンさんがQカイトの仕方を動画( https://youtu.be/127PIHTbjxg?t=120 )で教えてくれました。それ以降ずっと私はQカイト操作によるアンチ・アンチ・カイトテクニックの実験に励んでいます！いまだにキャサリンさんがやっていた縦Q操作はマスターできていません！
-#### My Information
-- Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
-- Corp : http://skt-space.dreamlog.jp/ 　 （コーポ＝ギルド＝クラン）
-- Alliance : https://evemaps.dotlan.net/alliance/Imperium_Eden 　 （アライアンス＝同盟）
-- Twitter : https://twitter.com/Yumenoshima1　
-- Youtube : https://www.youtube.com/c/YumenoshimaTV/ 　（LIVE配信）
-- Twitch : https://www.twitch.tv/yumenoshima 　（LIVE配信）
-- EVEオンライン記者クラブdiscord ： https://discord.gg/Am9Rz4w
-- SKTコープdiscord : https://discord.gg/9Dvv6KG
-#### My Friend Invitation to EVE-ONline (イブオンライン・フレンド招待)
-- https://www.eveonline.com/signup?invc=e6b14f74-78e0-4039-87e3-196ad450e64d
+- Then one day my corp-mate Katherine Chivahle showed me how to do Q-Kite. ( https://youtu.be/127PIHTbjxg?t=120 ) Ever since I've been hooked on experimenting with anti-anti-kiting with Q-kite! I still have not been able to master vertical Q-Kite like Katherine-san does. 
+  - ある日、コーポメンバーのキャサリンさんがQカイトの仕方を動画で教えてくれました。それ以降ずっと私はQカイト操作によるアンチ・アンチ・カイトテクニックの実験に励んでいます！いまだにキャサリンさんがやっていた縦Q操作はマスターできていません！
 
 ## How to Speed Tank & Kite with Q shortcut. (Qショートカットでスピードタンク& Q-カイトする方法について)
 
@@ -92,6 +81,18 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
 
 - example 8.1
   - https://youtu.be/NY2_WKUdweI?t=80
+
+#### My Information
+- Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
+- Corp : http://skt-space.dreamlog.jp/ 　 （コーポ＝ギルド＝クラン）
+- Alliance : https://evemaps.dotlan.net/alliance/Imperium_Eden 　 （アライアンス＝同盟）
+- Twitter : https://twitter.com/Yumenoshima1　
+- Youtube : https://www.youtube.com/c/YumenoshimaTV/ 　（LIVE配信）
+- Twitch : https://www.twitch.tv/yumenoshima 　（LIVE配信）
+- EVEオンライン記者クラブdiscord ： https://discord.gg/Am9Rz4w
+- SKTコープdiscord : https://discord.gg/9Dvv6KG
+#### My Friend Invitation to EVE-ONline (イブオンライン・フレンド招待)
+- https://www.eveonline.com/signup?invc=e6b14f74-78e0-4039-87e3-196ad450e64d
 
 # more videos （参考動画）
 ## EvE - Long Point Kiting Basics 
