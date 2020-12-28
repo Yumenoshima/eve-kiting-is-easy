@@ -10,7 +10,7 @@
 
 ### About Me
 #### Why I do Q-Kite
-- My first "EVE chill" experience was in a kiting Tristan against a Dragoon in a High-Sec War. ( https://zkillboard.com/kill/32742914/ ) 
+- My first "EVE chill" experience was in a kiting Tristan against a Dragoon in a High-Sec War. 
   - EVEオンラインで初めて”EVE Chill"(武者震い的な)を経験したのはハイセク戦争にてカイト・トリスタンで敵のドラグーンと戦闘した時のことでした。
 - That "EVE chill" experience was so extreme for me, I've been hooked on learning about kiting and anti-kiting and anti-anti-kiting. 
   - その時の"EVE Chill"経験があまりに激しかったため、その後カイト、アンチ・カイト、アンチ・アンチ・カイトのテクニックについてのめり込むように学習していきました。
@@ -90,7 +90,8 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
 When you start your kiting, you'll often get intercepted by anti-kiting maneuvers and get frustrated or give up not knowing what happened. I want this article to server as a Proof Of Concept that there is a way to counter the anti-kiting maneuvers. Thank you! Fly safe!
 
 #### My Information
-- Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
+- My Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
+- My first Kiting kill : https://zkillboard.com/kill/32742914/ (初Kiting Kill)
 - Corp : http://skt-space.dreamlog.jp/ 　 （コーポ＝ギルド＝クラン）
 - Alliance : https://evemaps.dotlan.net/alliance/Imperium_Eden 　 （アライアンス＝同盟）
 - Twitter : https://twitter.com/Yumenoshima1　
