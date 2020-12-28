@@ -1,5 +1,13 @@
 # Introduction to EVE-ONLINE Q-Kite Technique (EVEオンライン・Q-カイトテクニック紹介)
 
+### Quick Summary
+- Kiting
+  - https://web.archive.org/web/20160322110643/https://www.thewholefrigate.com/2012/10/magical-kiting-101.html
+- Anti-Kiting
+  - https://web.archive.org/web/20181007143413/https://www.thewholefrigate.com/2012/10/magic-nullification-countering-kiting.html
+- Anti-Anti-Kiting
+  - Read this article about Q-Kiting!
+
 ### About Me
 #### Why I do Q-Kite
 - My first "EVE chill" experience was in a kiting Tristan against a Dragoon in a High-Sec War. ( https://zkillboard.com/kill/32742914/ ) 
