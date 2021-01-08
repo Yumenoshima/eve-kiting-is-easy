@@ -1,4 +1,4 @@
-# Introduction to EVE-ONLINE Q-Kite Technique
+# EVE-ONLINE : Anti-Anti-Kiting with Q-Hotkey Technique
 
 - English : https://github.com/Yumenoshima/eve-kiting-is-easy/blob/master/README.md
 - Japanese(日本語) : https://github.com/Yumenoshima/eve-kiting-is-easy/blob/master/README-JP.md
