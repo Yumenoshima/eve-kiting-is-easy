@@ -123,19 +123,19 @@ High-grade Snake Gamma
 ```
 
 #### My Information
-- My Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
-- My first Kiting kill : https://zkillboard.com/kill/32742914/ (初Kiting Kill)
-- Corp : http://skt-space.dreamlog.jp/ 　 （コーポ＝ギルド＝クラン）
-- Alliance : https://evemaps.dotlan.net/alliance/Imperium_Eden 　 （アライアンス＝同盟）
+- My Zkill : https://zkillboard.com/character/93531150/ 　
+- My first Kiting kill : https://zkillboard.com/kill/32742914/ 
+- Corp : http://skt-space.dreamlog.jp/ 　
+- Alliance : https://evemaps.dotlan.net/alliance/Imperium_Eden 　 
 - Twitter : https://twitter.com/Yumenoshima1　
-- Youtube : https://www.youtube.com/c/YumenoshimaTV/ 　（LIVE配信）
-- Twitch : https://www.twitch.tv/yumenoshima 　（LIVE配信）
+- Youtube : https://www.youtube.com/c/YumenoshimaTV/ 
+- Twitch : https://www.twitch.tv/yumenoshima 　
 - EVEオンライン記者クラブdiscord ： https://discord.gg/Am9Rz4w
 - SKTコープdiscord : https://discord.gg/9Dvv6KG
-#### My Friend Invitation to EVE-ONline (イブオンライン・フレンド招待)
+#### My Friend Invitation to EVE-ONline
 - https://www.eveonline.com/signup?invc=e6b14f74-78e0-4039-87e3-196ad450e64d
 
-# more videos （参考動画）
+# more Anti-Anti-Kiting Videos 
 ## EvE - Long Point Kiting Basics 
 - 001
   - https://www.youtube.com/watch?v=DrSvAmQyKw0
