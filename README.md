@@ -67,6 +67,10 @@ Make them chase you around in circles around the pointed target.  Also, when you
 Kiting and speed tanking is about much speed as you can get! Can't kite if you are the slow guy...
 Also it's not just about kiting against ab frigs, it's about Anti-Anti-Kiting ... having an ability to dodge anti-kiting ships and catch a blob fleet as an annoying long point tackler.
 
+- example 6.1 Taking on a Harpy bait and his fleet.
+  - https://www.youtube.com/watch?v=cfBISoV3KAU
+
+
 ## FAQ.7 Kiting is super easy when ur in a snaked garmur all the time. 
 Highspeed kiting is especially fun when catching and fighting against blob fleets with baits.
 The "crossing the T" maneuver in the explanation page with garmur point range is extremely effective against the bait and their backups. (See example 7.1)
