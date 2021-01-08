@@ -10,7 +10,7 @@
   - https://web.archive.org/web/20181007143413/https://www.thewholefrigate.com/2012/10/magic-nullification-countering-kiting.html
 - Anti-Anti-Kiting (Super Kiting!)
   - Read this article about Q-Kiting!
-- Reddit Article Link (Reddit記事)
+- Reddit Article Link
   - https://www.reddit.com/r/Eve/comments/g346yi/eve_kiting_is_easy_001_with_explanation/
 
 ### About Me
