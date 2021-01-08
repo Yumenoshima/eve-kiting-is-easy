@@ -65,7 +65,7 @@ Make them chase you around in circles around the pointed target.  Also, when you
 
 ## FAQ.6 Kiting sure is easy with a snaked garmur against ab frigs! (sarcasm)
 Kiting and speed tanking is about much speed as you can get! Can't kite if you are the slow guy...
-Also it's not just against ab frigs, it's about having an ability to dodge anti-kiting ships and catch a blob fleet as an annoying long point tackler.
+Also it's not just about kiting against ab frigs, it's about Anti-Anti-Kiting ... having an ability to dodge anti-kiting ships and catch a blob fleet as an annoying long point tackler.
 
 ## FAQ.7 Kiting is super easy when ur in a snaked garmur all the time. 
 Highspeed kiting is especially fun when catching and fighting against blob fleets with baits.
