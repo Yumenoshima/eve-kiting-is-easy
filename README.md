@@ -1,5 +1,8 @@
 # Introduction to EVE-ONLINE Q-Kite Technique (EVEオンライン・Q-カイトテクニック紹介)
 
+English : https://github.com/Yumenoshima/eve-kiting-is-easy/blob/master/README.md
+Japanese : https://github.com/Yumenoshima/eve-kiting-is-easy/blob/master/README-JP.md
+
 ### Quick Summary
 - Kiting (カイティング参考）
   - https://web.archive.org/web/20160322110643/https://www.thewholefrigate.com/2012/10/magical-kiting-101.html
