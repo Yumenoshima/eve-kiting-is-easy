@@ -84,6 +84,40 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
 ## Conclusion
 When you start your kiting, you'll often get intercepted by anti-kiting maneuvers and get frustrated or give up not knowing what happened. I want this article to server as a Proof Of Concept that there is a way to counter the anti-kiting maneuvers. Thank you! Fly safe!
 
+### Fitting Info
+#### Ship
+[Garmur, Yumenoshima's Garmur]
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+Coreli A-Type 5MN Microwarpdrive
+Republic Fleet Warp Disruptor
+Small Shield Extender II
+Baker Nunn Enduring Tracking Disruptor I,Tracking Speed Disruption Script
+
+Light Missile Launcher II,Caldari Navy Nova Light Missile
+Light Missile Launcher II,Caldari Navy Nova Light Missile
+Light Missile Launcher II,Caldari Navy Nova Light Missile
+
+Small Ionic Field Projector II
+Small Ionic Field Projector II
+Small Ionic Field Projector II
+
+#### Implants
+[Capsule, Yumenoshima's Capsule]
+Eifyr and Co. 'Rogue' Evasive Maneuvering EM-705
+High-grade Snake Omega
+Zainou 'Deadeye' Rapid Launch RL-1005
+Zainou 'Snapshot' Light Missiles LM-905
+Zor's Custom Navigation Hyper-Link
+
+High-grade Snake Alpha
+High-grade Snake Beta
+High-grade Snake Delta
+High-grade Snake Epsilon
+High-grade Snake Gamma
+
 #### My Information
 - My Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
 - My first Kiting kill : https://zkillboard.com/kill/32742914/ (初Kiting Kill)
