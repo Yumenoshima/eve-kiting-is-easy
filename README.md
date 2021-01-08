@@ -12,6 +12,7 @@
   - Read this article about Q-Kiting!
 - Reddit Article Link
   - https://www.reddit.com/r/Eve/comments/g346yi/eve_kiting_is_easy_001_with_explanation/
+  - https://www.reddit.com/r/Eve/comments/ksybm3/antiantikiting_with_qhotkey_technique_from/
 
 ### About Me
 #### Why I do Q-Kite
