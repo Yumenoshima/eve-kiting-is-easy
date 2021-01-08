@@ -39,14 +39,14 @@ You can do Step3-5 in one motion by double clicking to ignore setting vertical a
 ```
 
 ## FAQ.2 What are those arrows coming out of enemy ships?
-Those arrows indicate their future location after 10 seconds if their speed and direction persists.
+- Those arrows indicate their future location after 10 seconds if their speed and direction persists.
+- This arrow is the key to counter anti-kiter because you can anticipate that anti-kiter went into intercepting course.
+
 ![eve1.png](https://i.imgur.com/tx2RvL8.png)
 
 ## FAQ.3 Using "Crossing the T" maneuver solo to stay alive.
-Use your speed to stay ahead of the enemy fleet.
-
-https://en.wikipedia.org/wiki/Crossing_the_T
-
+- Use your speed to stay ahead of the enemy fleet.
+- https://en.wikipedia.org/wiki/Crossing_the_T
 ![eve2.png](https://i.imgur.com/LZZae8c.png)
 
 ## FAQ.4 Whilst I have understood the T maneuver, how do you keep a check on Range control. So that u don't lose point. As in do u angle towards the target or angle away? 
