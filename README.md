@@ -86,7 +86,7 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
   - https://youtu.be/NY2_WKUdweI?t=80
 
 ## Conclusion
-When you start your kiting, you'll often get intercepted by anti-kiting maneuvers and get frustrated or give up not knowing what happened. I want this article to server as a Proof Of Concept that there is a way to counter the anti-kiting maneuvers. Thank you! Fly safe!
+When you start your kiting, you'll often get intercepted by anti-kiting maneuvers and get frustrated or give up not knowing what happened. I want this article to serve as a Proof Of Concept that there is a way to counter the anti-kiting maneuvers. Thank you! Fly safe!
 
 ### Fitting Info
 #### Ship
