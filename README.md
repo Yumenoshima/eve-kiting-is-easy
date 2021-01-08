@@ -1,57 +1,49 @@
-# Introduction to EVE-ONLINE Q-Kite Technique (EVEオンライン・Q-カイトテクニック紹介)
+# Introduction to EVE-ONLINE Q-Kite Technique
 
 - English : https://github.com/Yumenoshima/eve-kiting-is-easy/blob/master/README.md
-- Japanese : https://github.com/Yumenoshima/eve-kiting-is-easy/blob/master/README-JP.md
+- Japanese(日本語) : https://github.com/Yumenoshima/eve-kiting-is-easy/blob/master/README-JP.md
 
 ### Quick Summary
-- Kiting (カイティング参考）
+- Kiting
   - https://web.archive.org/web/20160322110643/https://www.thewholefrigate.com/2012/10/magical-kiting-101.html
-- Anti-Kiting (アンチ・カイティング参考)
+- Anti-Kiting
   - https://web.archive.org/web/20181007143413/https://www.thewholefrigate.com/2012/10/magic-nullification-countering-kiting.html
-- Anti-Anti-Kiting (Super Kiting!) (アンチ・アンチ・カイティング＝スーパーカイティング！)
-  - Read this article about Q-Kiting! (Qカイトに関するこの記事を読んで!)
+- Anti-Anti-Kiting (Super Kiting!)
+  - Read this article about Q-Kiting!
+- Reddit Article Link (Reddit記事)
+  - https://www.reddit.com/r/Eve/comments/g346yi/eve_kiting_is_easy_001_with_explanation/
 
 ### About Me
 #### Why I do Q-Kite
 - My first "EVE chill" experience was in a kiting Tristan against a Dragoon in a High-Sec War. 
-  - EVEオンラインで初めて”EVE Chill"(武者震い的な)を経験したのはハイセク戦争にてカイト・トリスタンで敵のドラグーンと戦闘した時のことでした。
 - That "EVE chill" experience was so extreme for me, I've been hooked on learning about kiting and anti-kiting and anti-anti-kiting. 
-  - その時の"EVE Chill"経験があまりに激しかったため、その後カイト、アンチ・カイト、アンチ・アンチ・カイトのテクニックについてのめり込むように学習していきました。
 - My main studying material was Magical Kiting / Anti-Kiting 101 article : https://forums-archive.eveonline.com/topic/161312/ 　
-  - 学習につかったサイトはMagicalカイティング101というサイトでした。
 - Then one day my corp-mate Katherine Chivahle showed me how to do Q-Kite. ( https://youtu.be/127PIHTbjxg?t=120 ) Ever since I've been hooked on experimenting with anti-anti-kiting with Q-kite! I still have not been able to master vertical Q-Kite like Katherine-san does. 
-  - ある日、コーポメンバーのキャサリンさんがQカイトの仕方を動画で教えてくれました。それ以降ずっと私はQカイト操作によるアンチ・アンチ・カイトテクニックの実験に励んでいます！いまだにキャサリンさんがやっていた縦Q操作はマスターできていません！
 
-## How to Speed Tank & Kite with Q shortcut. (Qショートカットでスピードタンク& Q-カイトする方法について)
+# How to Speed Tank & Kite with Q shortcut.
 
-## Video (EVE - Kiting Is Easy 010) (参考動画1)
-https://www.youtube.com/watch?v=NY2_WKUdweI
+- Sample Video1 (EVE - Kiting Is Easy 010) 
+  - https://www.youtube.com/watch?v=NY2_WKUdweI
+- Sample Video2 (EVE - Kiting Is Easy 001) 
+  - https://www.youtube.com/watch?v=3QZb75AdFec
 
-## Video (EVE - Kiting Is Easy 001) (参考動画2)
-https://www.youtube.com/watch?v=3QZb75AdFec
-
-## Reddit Article Link (Reddit記事)
-https://www.reddit.com/r/Eve/comments/g346yi/eve_kiting_is_easy_001_with_explanation/
-
-## FAQ.1 How do you move around manually? (手動でどうやって動かしているの？)
-1) While pressing shortcut Q, do the following 2-5. (ショートカットQを押したまま、2-5を行う)
-2) Move mouse to desired horizontal angle and distance. (マウスで平面の角度と距離を決める）
-3) Single click.（シングルクリック）
-4) Move mouse to desired vertical angle.（マウスで縦方向の角度を決める）
-5) Single click.（シングルクリック）
+## FAQ.1 How do you move around manually?
+1) While pressing shortcut Q, do the following 2-5.
+2) Move mouse to desired horizontal angle and distance.
+3) Single click.
+4) Move mouse to desired vertical angle.
+5) Single click.
 ```
 You can do Step3-5 in one motion by double clicking to ignore setting vertical angle.
 （ステップ３～５をダブルクリックすることで縦方向の角度を無視することができる）
 ```
 
-## FAQ.2 What are those arrows coming out of enemy ships?（敵の船から出ている矢印は何？）
+## FAQ.2 What are those arrows coming out of enemy ships?
 Those arrows indicate their future location after 10 seconds if their speed and direction persists.
-（矢印は相手の船がスピードと方向が変わらなかった場合の10秒後の場所を示します）
-
 ![eve1.png](https://i.imgur.com/tx2RvL8.png)
 
-## FAQ.3 Using "Crossing the T" maneuver solo to stay alive.（丁字戦法で生存率を高めよう）
-Use your speed to stay ahead of the enemy fleet.（スピードを使い相手のフリートの前方に位置取りしよう）
+## FAQ.3 Using "Crossing the T" maneuver solo to stay alive.
+Use your speed to stay ahead of the enemy fleet.
 
 https://en.wikipedia.org/wiki/Crossing_the_T
 
