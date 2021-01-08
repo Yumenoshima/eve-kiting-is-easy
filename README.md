@@ -86,6 +86,7 @@ When you start your kiting, you'll often get intercepted by anti-kiting maneuver
 
 ### Fitting Info
 #### Ship
+```
 [Garmur, Yumenoshima's Garmur]
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II
@@ -103,8 +104,10 @@ Light Missile Launcher II,Caldari Navy Nova Light Missile
 Small Ionic Field Projector II
 Small Ionic Field Projector II
 Small Ionic Field Projector II
+```
 
 #### Implants
+```
 [Capsule, Yumenoshima's Capsule]
 Eifyr and Co. 'Rogue' Evasive Maneuvering EM-705
 High-grade Snake Omega
@@ -117,6 +120,7 @@ High-grade Snake Beta
 High-grade Snake Delta
 High-grade Snake Epsilon
 High-grade Snake Gamma
+```
 
 #### My Information
 - My Zkill : https://zkillboard.com/character/93531150/ 　 （キルボード・キルレ調査サイト）
