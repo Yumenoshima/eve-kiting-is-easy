@@ -35,7 +35,6 @@
 5) Single click.
 ```
 You can do Step3-5 in one motion by double clicking to ignore setting vertical angle.
-（ステップ３～５をダブルクリックすることで縦方向の角度を無視することができる）
 ```
 
 ## FAQ.2 What are those arrows coming out of enemy ships?
