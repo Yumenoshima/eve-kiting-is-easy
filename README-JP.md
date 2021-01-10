@@ -48,7 +48,7 @@ Those arrows indicate their future location after 10 seconds if their speed and 
 ## FAQ.3 Using "Crossing the T" maneuver solo to stay alive.（丁字戦法で生存率を高めよう）
 Use your speed to stay ahead of the enemy fleet.（スピードを使い相手のフリートの前方に位置取りしよう）
 
-https://en.wikipedia.org/wiki/Crossing_the_T
+- 丁字戦法 : https://ja.wikipedia.org/wiki/%E4%B8%81%E5%AD%97%E6%88%A6%E6%B3%95
 
 ![eve2.png](https://i.imgur.com/LZZae8c.png)
 
