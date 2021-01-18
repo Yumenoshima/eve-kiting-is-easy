@@ -85,11 +85,47 @@ When trying to catch kiters, you need to predict direction of the kiter, and use
 - example 8.1
   - https://youtu.be/NY2_WKUdweI?t=80
 
+## FAQ.9 What do you do when the Anti-Kiter is way faster than you?
+Try to make him overshoot by doing a tight turn. See below example.
+- example 9.1
+  - https://www.twitch.tv/videos/878418778
+
+## FAQ.10 Can you do this in a Slicer?
+Yes, see below examples!
+- example 10.1
+  - https://www.twitch.tv/videos/878418778
+
 ## Conclusion
 When you start your kiting, you'll often get intercepted by anti-kiting maneuvers and get frustrated or give up not knowing what happened. I want this article to serve as a Proof Of Concept that there is a way to counter the anti-kiting maneuvers. Thank you! Fly safe!
 
-### Fitting Info
-#### Ship
+### Slicer Fitting Info 
+#### Ship (Slicer)
+```
+[Imperial Navy Slicer, Yumenoshima's Imperial Navy Slicer]
+Extruded Compact Heat Sink
+Heat Sink II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Small Ancillary Armor Repairer,Nanite Repair Paste
+
+5MN Microwarpdrive II
+Warp Disruptor II
+
+Small Focused Pulse Laser II,Scorch S
+Small Focused Pulse Laser II,Scorch S
+
+Small Energy Locus Coordinator I
+Small Energy Locus Coordinator II
+Small Energy Locus Coordinator II
+```
+#### Implants (Slicer)
+```
+None
+```
+
+
+### Garmur Fitting Info
+#### Ship (Garmur)
 ```
 [Garmur, Yumenoshima's Garmur]
 Nanofiber Internal Structure II
@@ -110,7 +146,7 @@ Small Ionic Field Projector II
 Small Ionic Field Projector II
 ```
 
-#### Implants
+#### Implants (Garmur)
 ```
 [Capsule, Yumenoshima's Capsule]
 Eifyr and Co. 'Rogue' Evasive Maneuvering EM-705
