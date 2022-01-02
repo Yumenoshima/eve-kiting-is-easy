@@ -192,4 +192,7 @@ High-grade Snake Gamma
   - https://www.youtube.com/watch?v=ol6OcnYJvCo
 - Catching a Nergal
   - https://www.youtube.com/watch?v=9pp1BNjHWpg
-  
+- the high-grade snaked Orthrus
+  - https://www.youtube.com/watch?v=rMFuPu-cguM
+- the high-grade snaked Vigilant
+  - https://www.youtube.com/watch?v=ejvEMb7TAN0  
